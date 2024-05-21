@@ -1,2 +1,1 @@
-# jogo-classes
-Repositório para a atividade de Jogo Classes
+# Repositório para a atividade de Jogo Classes - DIO
